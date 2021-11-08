@@ -1,0 +1,10 @@
+.nav, ul{
+display: flex;
+list-style: none;
+justify-content: end;
+
+}
+.nav ul li{
+   margin: 5px 10px;
+   font-size: 18px;
+}
